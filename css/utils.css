@@ -19,6 +19,18 @@
 	display: table;
 }
 
+.d-flex {
+	display: flex;
+}
+
+.jc-space-evenly {
+	justify-content: space-evenly;
+}
+
+.jc-center {
+	justify-content: center;
+}
+
 /* PADDING */
 
 .p1 {
